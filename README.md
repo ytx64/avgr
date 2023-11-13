@@ -1,6 +1,6 @@
 # AVGR
 A WebUI to edit collected actors in Adult 
-VR Game Room for Windows (Check [Note](https://github.com/ytx64/avgr/edit/main/README.md#note))
+VR Game Room for Windows (Check [Note](https://github.com/ytx64/avgr#note))
 ## Supported OS
 Windows only. Currently known to work on Windows 10.
 - x86_64 (64bit)
