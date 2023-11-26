@@ -24,7 +24,7 @@ Usage:
 ## Note:
 **Important**: _You cannot alter the Rarity of Actors or introduce new actors in an empty container slot. This software is not designed for generating "quick cash" in the game. You are limited to modifying existing actors, and any edited actors will be set to the lowest rarity, "Common."_
 ## WebUI
-![](https://raw.githubusercontent.com/ytx64/avgr/main/assets/img/webUI.png)
+![](https://raw.githubusercontent.com/ytx64/avgr/main/assets/img/EditorUI.png)
 
 ## Actor sizes
 ![](https://raw.githubusercontent.com/ytx64/avgr/main/assets/img/actors.PNG)
